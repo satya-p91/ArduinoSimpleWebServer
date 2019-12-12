@@ -3,7 +3,7 @@ First arduino project on wemos d1r1 wifi board. It connect to wifi network and a
 
 ## initial steps to setup ESP8266 board(wemos d1 r1)
 
-First: installed Arduino IDE from [here](https://www.arduino.cc/en/Main/Software). Since I am using linux so I downloaded setup file for linux. 
+First: install Arduino IDE from [here](https://www.arduino.cc/en/Main/Software). Since I am using linux so I downloaded setup file for linux. 
 
 Second: add wemos d1 r1 board configuration to IDE by going to **file->preferences** and add [http://arduino.esp8266.com/stable/package_esp8266com_index.json](http://arduino.esp8266.com/stable/package_esp8266com_index.json) url in **Additional Board manager URLs** field and then click ok. after that go to **tools->board->board manager** and search for esp8266 and install the latest version of package. Now go to **tools->board** and find wemos d1 r1 from board list and select that.
 
