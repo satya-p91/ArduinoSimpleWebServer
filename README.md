@@ -14,4 +14,4 @@ To test the setup run the example project by going to **file->examples->basics->
 Error encountered by me: permission denied for /dev/ttyUSB0 
 To solve this go to terminal and run the command **sudo chmod a+rw /dev/ttyUSB0**
 
-Thats all for the first time... Now we can create new sketchboard and deploy various sketch.
+**Thats all for the first time... Now we can create new sketchboard and deploy various sketch.**
