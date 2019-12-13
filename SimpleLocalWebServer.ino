@@ -10,7 +10,7 @@ void setup() {
   delay(10);
  
   pinMode(LED_BUILTIN, OUTPUT);
-  //digitalWrite(LED_BUILTIN, LOW);
+  digitalWrite(LED_BUILTIN, LOW);
  
   // Connect to WiFi network
   Serial.println();
